@@ -1,9 +1,6 @@
 /**
- * @name YABDP4Nitro
- * @author Riolubruh
- * @version 4.6.0
- * @source https://github.com/riolubruh/YABDP4Nitro
- * @updateUrl https://raw.githubusercontent.com/riolubruh/YABDP4Nitro/main/YABDP4Nitro.plugin.js
+ * @name vatsa Nitro
+
  */
 /*@cc_on
 @if(@_jscript)
