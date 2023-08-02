@@ -6,9 +6,9 @@ I'm not going to update this plugin. Please, feel free to use:
      * [BetterUsers](https://github.com/Bettlee/BetterUsers) by [Bettlee](https://github.com/Bettlee)
      * [EditUsers](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/EditUsers) by [DevilBro](https://github.com/mwittrien)
 2. **For sharing your screen at 60fps 1080p:**
-     * [PremiumScreenShare](https://github.com/Tharki-God/BetterDiscordPlugins/blob/master/PremiumScreenShare.plugin.js) by [Tharki-God](https://github.com/Tharki-God)
+     * [PremiumScreenShare](https://github.com/Tharki-God/BetterDiscordPlugins/blob/master/PremiumScreenShare.plugin.js) by [vatsa](https://github.com/SrivatsaMG)
 3. **For sending emojis:**
-     * [Freemoji](https://github.com/QbDesu/BetterDiscordAddons/tree/potato/Plugins/Freemoji) by [Qb](https://github.com/QbDesu)
+    
 
 ____
 
@@ -23,7 +23,7 @@ With the help of this plugin you'll be able to:
 # Installation 
 1. Download [Better Discord](https://betterdiscord.app);
 2. After setting it up, open **User Settings**, scroll down until you find **Plugins** option and click on the **Open Plugins Folder**;
-3. Download [Plugin](github.com/Shimoro-Rune/NitroPerks/releases/latest) and drop the plugin files inside the folder;
+3. Download [Plugin](https://github.com/SrivatsaMG/Discordnitroplugin/blob/main/VATSANitro.plugin.js) and drop the plugin files inside the folder;
 4. Turn the plugin on.
 
 # Changelog
